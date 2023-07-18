@@ -13,7 +13,7 @@
             "openFiles": [
                 "codespace.md"
             ]
-        },
+        }
+    },
          "postCreateCommand": "echo '# Escribiendo código al crear el codespace!' >> codespace.md"
-
-}
+    }
